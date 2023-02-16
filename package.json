@@ -4,6 +4,6 @@
     "js-yaml": "^3.13.1",
     "semver": "^6.3.0",
     "shelljs": "^0.8.3",
-    "simple-git": "^1.126.0"
+    "simple-git": "^3.16.0"
   }
 }
